@@ -20,7 +20,6 @@ body
 {
     padding: 8vw;
     width: 100vw;
-    height: 210vh;
     overflow: hidden;
     background-color: #FAFAFA;
     transition: transform 0.3s linear; 
